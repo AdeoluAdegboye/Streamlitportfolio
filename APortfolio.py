@@ -3,13 +3,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import numpy as np
-import base64
-from bs4 import BeautifulSoup
 import requests
-import matplotlib.pyplot as plt
-import seaborn as sns
-import json 
-import time 
 from streamlit_option_menu import option_menu
 
 
