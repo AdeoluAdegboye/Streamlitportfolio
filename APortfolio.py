@@ -8,7 +8,7 @@ from streamlit_option_menu import option_menu
 
 
 
-# st.set_page_config(layout="wide") 
+st.set_page_config(layout="wide") 
 # [theme]
 base="light"
 # My BackgroundColor= "#OB1A39"
